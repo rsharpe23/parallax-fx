@@ -1,2 +1,2 @@
 # parallax-fx
-See demo: https://rsharpe-blog.ru/projects/parallax-fx/
+See demo: https://rsharpe23.github.io/portfolio/parallax-fx/
